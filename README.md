@@ -1,3 +1,1 @@
-# sarawalton.github.io
-
-Personal website hosted by GitHub Pages
+Refer to sarawalton.github.io
